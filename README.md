@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 # Hi everyone, i'm Carbonell Castillo (@Carbonell-Castillo)
-<img align="right" alt="GIF" src="[https://github.com/Carbonell-Castillo/Carbonell-Castillo/blob/main/Profile.gif]" width="45%" />
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/Carbonell-Castillo/Carbonell-Castillo/main/Profile.gif]" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
