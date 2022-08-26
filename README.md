@@ -10,7 +10,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>🏢 I'm working for <b>my startup</b></li>
     <li>🌱 I'm currently learning <b>CMS</b> and <b>Python</b></li>
     <li>💬 You can ask me about <b>FullStack, Java, Database...</b></li>
-    <li>📮 You can contact me directly here : <b>bccastilocifuentes@gmail.com</b>
+    <li>📮 You can contact me directly here : <b>bccastillocifuentes@gmail.com</b>
   </ul>
 Passionate Software engineer and trainer, I am always looking for new challenges.
 <br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
