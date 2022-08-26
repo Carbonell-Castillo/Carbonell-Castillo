@@ -5,14 +5,14 @@
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>👨‍🔧 I'm a <b>Student softwware engineer</b></li>
+    <li>📍 Based near <b>Guatemala city</b></li>
+    <li>🏢 I'm working for <b>my startup</b></li>
     <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
+    <li>💬 You can ask me about <b>FullStack, Java, Database...</b></li>
+    <li>📮 You can contact me directly here : <b>bccastilocifuentes@gmail.com</b>
   </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
+Passionate Software engineer and trainer, I am always looking for new challenges.
 <br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
@@ -20,9 +20,9 @@ If you want to discuss about it, feel free to contact me.
 ## 🌐 You can find me on :
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/bruce-carbonell-castillo-cifuentes-93a649224)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
 
 </p>
 
