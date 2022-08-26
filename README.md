@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/Carbonell-Castillo/Carbonell-Castillo/blob/main/Banner.png)
 
 # Hi everyone, i'm Carbonell Castillo (@Carbonell-Castillo)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Carbonell-Castillo/Carbonell-Castillo/main/Profile.gif" width="45%" />
