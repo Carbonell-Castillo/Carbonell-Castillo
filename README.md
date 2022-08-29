@@ -8,7 +8,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>👨‍💻 I'm a <b>Student software engineer</b></li>
     <li>📍 Based near <b>Guatemala city</b></li>
     <li>🏢 I'm actually <b>freelance</b></li>
-    <li>🏢 I'm speak <b>native spanish and A2 english</b></li>
+    <li>🌎 I'm speak <b>native spanish and A2 english</b></li>
     <li>🌱 I'm currently learning <b>CMS</b> and <b>Python</b></li>
     <li>💬 You can ask me about <b>FullStack, Java, Database...</b></li>
     <li>📮 You can contact me directly here : <b>bccastillocifuentes@gmail.com</b>
